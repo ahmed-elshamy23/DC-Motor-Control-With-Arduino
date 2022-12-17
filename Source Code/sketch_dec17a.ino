@@ -83,8 +83,8 @@ void loop()
     }
     else
     {
-        DC_controlSpeedAndDirection(1, 240, CLOCKWISE);
-        DC_controlSpeedAndDirection(2, 240, CLOCKWISE);
+        DC_controlSpeedAndDirection(1, FULL_SPEED, CLOCKWISE);
+        DC_controlSpeedAndDirection(2, FULL_SPEED, CLOCKWISE);
     }
-    delay(240);
+    delay(100);
 }

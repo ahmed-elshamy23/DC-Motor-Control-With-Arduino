@@ -1,4 +1,4 @@
-# Motor-Control-With-Arduino
+# DC-Motor-Control-With-Arduino
 This repository contains a mini-project, DC motor control system, based on arduino uno R3.
 The system consists of arduino uno R3, an ultrasonic sensor (HC-SR04), motor driver (L298N) and 2 DC motors.
 
